@@ -34,25 +34,29 @@ Visualización de los productos con mejor y peor desempeño (verde = más vendid
 Costos de envío promedio
 Análisis de los costos promedio de envío por tienda y su relación con la rentabilidad.
 
-conclusion y recomendacion
+conclusion y recomendacion:
 
 📈 Principales hallazgos
 📉 La Tienda 4 presenta el menor ingreso promedio.
 ⭐ A pesar que tiene satisfacción rentable de (4.0).
 💰 Su costo de envío es el más bajo, lo que reduce el margen de ganancia.
 🛒 Cada tienda destaca en categorías distintas, lo que muestra oportunidades para estrategias personalizadas.
+
 💡 Conclusión y recomendación
 “Sugerimos vender la Tienda 4”, ya que genera menores ingresos, presenta menor rentabilidad por envíos.
+
 
 Además, se recomienda ajustar los precios de envío y potenciar los productos más vendidos en las demás tiendas para mejorar el rendimiento general.
 
 🧠 Tecnologías utilizadas
+
 Herramienta	Uso principal
 🐍 Python	Lenguaje de programación
 📊 Pandas	Limpieza y análisis de datos
 🎨 Matplotlib / Seaborn	Visualización de datos
 ☁️ Google Colab	Entorno de ejecución
 💾 GitHub	Control de versiones y publicación
+
 
 👩‍💻 Autora
 GISELA ANALIA FERNANDEZ
