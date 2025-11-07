@@ -58,8 +58,8 @@ Herramienta	Uso principal
 💾 GitHub	Control de versiones y publicación
 
 
-👩‍💻 Autora
-GISELA ANALIA FERNANDEZ
-Proyecto realizado para el programa Oracle Next Education (ONE) - Alura LATAM.
-📧 Contacto: giselaafernandez@gmail.com
-🌐 Repositorio: GitHub
+✍️ Autora
+  GISELA ANALIA FERNANDEZ
+  Proyecto realizado para el programa Oracle Next Education (ONE) - Alura LATAM.
+  📧 Contacto: giselaafernandez@gmail.com
+  🌐 Repositorio: GitHub
